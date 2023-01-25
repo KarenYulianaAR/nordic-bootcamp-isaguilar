@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "date": "Tue, 06 Sep 2022 18:27:10 GMT",
+    "content-type": "application/json",
+    "content-length": "168",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-request-id": "21f527ca-4aef-41e8-8db7-669a729d3d7c",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block",
+    "x-nginx-host": "i-0574ffba0a10712ef-10.54.28.59",
+    "x-nginx-pool": "sandbox-2.pegasus.melifrontends.com",
+    "x-nginx-upstreamhost": "172.19.0.5:80",
+    "x-upstream-server": "envoy"
+  },
+  "data": {
+    "data": {
+      "user": {
+        "names": {
+          "preferred": "Test",
+          "brand": null
+        },
+        "registration_identifiers": {
+          "email": {
+            "address": "test-nordic+1193353885@mla.com"
+          }
+        },
+        "entity_type": "unknown"
+      }
+    }
+  }
+}

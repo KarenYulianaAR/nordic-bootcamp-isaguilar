@@ -1,0 +1,28 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "date": "Tue, 06 Sep 2022 18:27:11 GMT",
+    "content-type": "application/json;charset=UTF-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "vary": "Accept,Accept-Encoding",
+    "cache-control": "max-age=0",
+    "etag": "30d0c9137fc3f572fa24eb6817773949",
+    "x-content-type-options": "nosniff",
+    "x-request-id": "fb9a4283-6581-46d2-9e68-59fd2e709ec6",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block",
+    "x-nginx-host": "i-07dbefe6cdfda5482-10.54.28.205",
+    "x-nginx-pool": "read.notifications-newsgroup.melifrontends.com",
+    "x-nginx-upstreamhost": ", 172.19.0.5:80",
+    "x-upstream-server": "envoy"
+  },
+  "data": {
+    "android": 1,
+    "ios": 1,
+    "web-mobile": 1,
+    "web-tablet": 0,
+    "web-desktop": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "date": "Tue, 06 Sep 2022 18:27:09 GMT",
+    "content-type": "application/json",
+    "content-length": "269",
+    "connection": "keep-alive",
+    "x-transaction-name": "secure_session_get",
+    "x-content-type-options": "nosniff",
+    "x-request-id": "3a2e1d62-db4f-446c-bb0a-8cdf86db5477",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block",
+    "x-nginx-host": "i-0019484da195fa0f2-10.54.28.116",
+    "x-nginx-pool": "production.auth-login-sessions-api.melifrontends.com",
+    "x-nginx-upstreamhost": ", 172.19.0.5:80",
+    "x-upstream-server": "envoy"
+  },
+  "data": {
+    "user_id": 1193353885,
+    "operator_id": null,
+    "creation_date": "2022-09-06T14:26:16.917-04:00",
+    "expire_date": "2025-09-05T14:26:16.914-04:00",
+    "site_id": "mla",
+    "scopes": [
+      "read",
+      "write"
+    ],
+    "admin_otp": false,
+    "root_id": 1193353885,
+    "detached_id": "5a9048b9-4f06-4a50-ad97-e874cbef18da"
+  }
+}

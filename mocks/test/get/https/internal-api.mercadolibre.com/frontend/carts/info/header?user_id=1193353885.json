@@ -1,0 +1,25 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "date": "Tue, 06 Sep 2022 18:27:11 GMT",
+    "content-type": "application/json;charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "vary": "accept-encoding",
+    "content-encoding": "gzip",
+    "x-content-type-options": "nosniff",
+    "x-request-id": "0ce715fd-957e-455f-9e0c-dd3065165579",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block",
+    "x-nginx-host": "i-0574ffba0a10712ef-10.54.28.59",
+    "x-nginx-pool": "info.cart-backend.melifrontends.com",
+    "x-nginx-upstreamhost": ", 172.19.0.5:80",
+    "x-upstream-server": "envoy"
+  },
+  "data": {
+    "badge_icon": {
+      "quantity": 0
+    }
+  }
+}
