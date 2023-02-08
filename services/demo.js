@@ -3,6 +3,7 @@
  */
 const restclient = require('nordic/restclient')({
   timeout: 5000,
+  baseURL: "https://api.mercadolibre.com"
 });
 
 /**
