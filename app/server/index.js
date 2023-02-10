@@ -16,6 +16,7 @@ require('../../mocks');
  * Routers
  */
 const demoRoute = require('../pages/demo');
+const homeRoute = require('../pages/home');
 
 /**
  * Use global middlewares
@@ -33,6 +34,7 @@ router.get('/', (req, res) => res.redirect(`${config.ragnar.basePath}demo`));
  * Mount routers
  */
 router.use('/demo', demoRoute);
+router.use('/home', homeRoute);
 
 /**
  * Expose router
